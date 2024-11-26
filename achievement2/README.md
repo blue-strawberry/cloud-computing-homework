@@ -1,6 +1,14 @@
 # Number Processing Service
 
 This project is a simple web-based number processing system, logically divided into a **web server** and an **application server**. The system processes natural numbers with specific validation rules and logs all activities.
+---
+
+## Diagrams
+### Component diagram
+![component_diagram](https://github.com/user-attachments/assets/cc2e9923-50f9-4675-9532-277b57395436)
+
+### Sequence diagram
+![sequence_diagram](https://github.com/user-attachments/assets/7204f152-80a3-4ea5-8241-df4dd951f2ea)
 
 ---
 
@@ -56,13 +64,13 @@ This project is a simple web-based number processing system, logically divided i
    ```
     python web_server.py
    ```
-*Runs on http://127.0.0.1:5000
+* Runs on http://127.0.0.1:5000
 
 2. Start the Application Server:
    ```
     python application_server.py
    ```
-*Runs on http://127.0.0.1:5001
+* Runs on http://127.0.0.1:5001
 
 3. Send a number:
    ```
