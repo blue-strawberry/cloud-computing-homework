@@ -47,8 +47,8 @@ This project is a simple web-based number processing system, logically divided i
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd number-processing-service
+   git clone https://github.com/blue-strawberry/cloud-computing-homework.git
+   cd cloud-computing-homework/achievement2
    ```
 
 2. Install dependencies:
