@@ -8,7 +8,7 @@ This project is a simple web-based number processing system, logically divided i
 ![component_diagram](https://github.com/user-attachments/assets/cc2e9923-50f9-4675-9532-277b57395436)
 
 ### Sequence diagram
-![sequence_diagram](https://github.com/user-attachments/assets/7204f152-80a3-4ea5-8241-df4dd951f2ea)
+![sequence_diagram drawio](https://github.com/user-attachments/assets/51593234-fd41-4343-9c30-7fac5801e16a)
 
 ---
 
